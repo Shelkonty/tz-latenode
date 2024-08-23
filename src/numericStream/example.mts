@@ -1,4 +1,4 @@
-import NumericStream from "./NumericStream.mjs";
+import NumericStream from "./NumericStream.ts";
 
 /*
   NumericStream это класс, который раз в секунду генерирует событие с новым следующим числом

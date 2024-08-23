@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fa93bc0a.js",
+    "static/media/NumericStream.mts": "/static/media/NumericStream.b0e229824d1ab0a3ccf3.mts",
+    "index.html": "/index.html",
+    "main.fa93bc0a.js.map": "/static/js/main.fa93bc0a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa93bc0a.js"
+  ]
+}
